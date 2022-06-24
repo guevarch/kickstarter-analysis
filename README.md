@@ -27,9 +27,9 @@ From the analysis of outcomes based on goals, the higher the goal amount the low
 
 - What are some limitations of this dataset?
 
-Some of the limitations of the data set include the outliers that would skew the data in either direction. A possible solution is to identify the outliers using mean, standard dev., median and IQR analysis.
+Some of the limitations of the data set include the outliers that would skew the data in either direction. A possible solution is to identify the outliers using mean, standard dev., median and IQR analysis and eliminate these outliers.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Some of the possible tables/graphs we could create is the box and whisker plots.
+Some of the possible tables/graphs we could create is the box and whisker plots.The box and whisker plot helps identify outliers within a data set using standard deviation and IQR. By identifying these outliers, we can eliminate them from the data set, producing more accurate and precise information.
 
