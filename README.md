@@ -8,18 +8,17 @@ The purpose of the project is to analyze the outcomes based on the Launch Start 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date and Challenges and Difficulties Encountered
 
 - For the analysis of outcomes based on launch date deliverable, one challenge that arose was converting the x-axis or the row labels to months. Trial and error and attention to detail is the best way to overcome this challenge. By holding and dragging the subcategory years to the pivot table twice will convert the rows to months. 
 
 - ![image](https://user-images.githubusercontent.com/107594143/175439847-04541cc4-8ef2-47a4-8fc2-d2579de13c88.png)
 
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals and Challenges and Difficulties Encountered
 
 - For the analysis of outcomes based on goals delivereable, one challenge that arose was learning the syntax for the countifs function. The function is quite lengthy - =COUNTIFS(Kickstarter!$F:$F,"cancelled",Kickstarter!$D:$D,">=10000",Kickstarter!$D:$D,"<=14999",Kickstarter!$O:$O,"plays"). The best way to overcome this challenge is to read the example outlined carefully and to follow it as best as possible.
 
-### Challenges and Difficulties Encountered
 
 ## Results
 
